@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786911155799",
+    "project_id": "editorx-e299e",
+    "storage_bucket": "editorx-e299e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786911155799:android:cc3ce8a7260d174ad83512",
+        "android_client_info": {
+          "package_name": "com.editorx.development"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJwQGMSoeFkWFk9uOQ45Ng_OJHzcdX_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

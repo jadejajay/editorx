@@ -1,0 +1,13 @@
+[
+  {
+    "type":"text",
+    "name":"text editable widget",
+    "props":{
+      "text":"Hello, world",
+      "editable":true,
+      "style": {
+        "color": "red"
+      }
+    }
+  }
+]

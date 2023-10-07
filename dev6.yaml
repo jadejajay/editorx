@@ -1,0 +1,94 @@
+https://products.graphicdesigns.club/checkout/order-received/12761/?key=wc_order_i1uyJKtI486yy#google_vignette
+https://shopify.engineering/making-react-native-gestures-feel-natural
+https://github.com/manjunath5496
+https://stackoverflow.com/questions/6084360/using-node-js-as-a-simple-web-server
+https://jestjs.io/docs/watch-plugins
+hooks ==>>>>
+https://usehooks.com/
+useDebounce
+useThrottle
+useToggle
+useHistoryState //undo redo
+useRenderCount
+useObjectState
+useIsFirstRender
+useDefault
+useList
+useCounter
+https://github.com/csfrequency/react-firebase-hooks
+https://github.com/JoschuaSchneider/use-error-boundary
+https://github.com/react-native-community/hooks#useRefresh
+https://github.com/itispx/useful-hooks
+https://react.dev/reference/react/useCallback
+https://github.com/iyegoroff/react-native-image-filter-kit
+https://github.com/topics/bugbounty
+https://github.com/disclose/bug-bounty-platforms
+https://github.com/djadmin/awesome-bug-bounty
+https://github.com/vavkamil/awesome-bugbounty-tools
+https://atlas.scoutflo.com/hacktoberfest?ref=producthunt
+https://www.antimetal.com/?ref=ph_home&utm_campaign=PH_AD_2&utm_medium=PH_Launch_2&utm_source=Product_Hunt_Ad_2
+https://github.com/bluenviron/mediamtx
+firebase emulators:start --import=firebase-export --export-on-exit
+
+
+text styles
+// color
+// fontFamily
+// fontSize
+// fontStyle enum('normal', 'italic')
+// fontWeight enum('normal', 'bold', '100', '200', '300', '400', '500', '600', '700', '800', '900')
+// fontVariant [] enum('small-caps', 'oldstyle-nums', 'lining-nums', 'tabular-nums', 'proportional-nums')
+// letterSpacing
+// lineHeight
+// textAlign enum('auto', 'left', 'right', 'center', 'justify')
+// textDecorationLine enum('none', 'underline', 'line-through', 'underline line-through')
+// textShadowColor
+// textShadowOffset object: {width?: number, height?: number}
+// textShadowRadius
+// textTransform enum('none', 'uppercase', 'lowercase', 'capitalize')
+// writingDirection enum('auto', 'ltr', 'rtl')
+
+image styles
+//backfaceVisibility enum('visible', 'hidden')
+//backgroundColor
+//borderBottomLeftRadius
+//borderBottomRightRadius
+//borderColor
+//borderRadius
+//borderTopLeftRadius
+//borderTopRightRadius
+//borderWidth
+//opacity
+//overflow
+//resizeMode enum('cover', 'contain', 'stretch', 'repeat', 'center')
+//objectFit enum('cover', 'contain', 'fill', 'scale-down')
+//tintColor
+
+view styles
+//backfaceVisibility enum('visible', 'hidden')
+//backgroundColor
+//borderBottomColor
+//borderBottomEndRadius
+//borderBottomLeftRadius
+//borderBottomRightRadius
+//borderBottomStartRadius
+//borderBottomWidth
+//borderColor
+//borderEndColor
+//borderLeftColor
+//borderLeftWidth
+//borderRadius
+//borderRightColor
+//borderRightWidth
+//borderStartColor
+//borderStyle enum('solid', 'dotted', 'dashed')
+//borderTopColor
+//borderTopEndRadius
+//borderTopLeftRadius
+//borderTopRightRadius
+//borderTopStartRadius
+//borderTopWidth
+//borderWidth
+//elevationAndroid
+//opacity
+//pointerEvents
