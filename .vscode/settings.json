@@ -46,5 +46,6 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
-  "python.formatting.provider": "none" // make sure to disable i18n-ally in your global setting and only enable it for such projects
+  "python.formatting.provider": "none",
+  "java.compile.nullAnalysis.mode": "disabled" // make sure to disable i18n-ally in your global setting and only enable it for such projects
 }

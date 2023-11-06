@@ -1,0 +1,152 @@
+{
+  "props": {
+    "className": "flex-1 overflow-hidden bg-white"
+  },
+  "children": [
+    {
+      "props": {
+        "className": "elevation-4 absolute top-3 -right-10 z-50 scale-75 flex-row items-center rounded-full bg-white p-2 pr-10"
+      },
+      "children": [
+        {
+          "type": "Image",
+          "props": {
+            "src": "http://itekindia.com/IBAIS/logo.png",
+            "style": {
+              "width": 24,
+              "height": 24
+            },
+            "resizeMode": "contain"
+          },
+          "children": []
+        },
+        {
+          "type": "Text",
+          "props": {
+            "className": "ml-2 font-robotobold text-xs"
+          },
+          "children": [
+            "IBAIS MEDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "props": {
+        "className": "flex-1"
+      },
+      "children": [
+        {
+          "props": {
+            "className": "h-5/6"
+          },
+          "children": [
+            {
+              "type": "Image",
+              "props": {
+                "src": "http://itekindia.com/sharva/festival/main0.jpg",
+                "style": {
+                  "width": "100%",
+                  "height": "100%"
+                },
+                "resizeMode": "stretch"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "props": {
+            "className": "h-1/6"
+          },
+          "children": [
+            {
+              "type": "LinearGradient",
+              "props": {
+                "colors": [
+                  "#000",
+                  "#727272"
+                ],
+                "start": {
+                  "x": 0,
+                  "y": 0
+                },
+                "end": {
+                  "x": 1,
+                  "y": 0
+                },
+                "style": {
+                  "position": "absolute",
+                  "width": "100%",
+                  "height": "100%"
+                }
+              },
+              "children": []
+            },
+            {
+              "type": "LinearGradient",
+              "props": {
+                "colors": [
+                  "#635a6c",
+                  "#463e4e"
+                ],
+                "start": {
+                  "x": 0,
+                  "y": 0
+                },
+                "end": {
+                  "x": 1,
+                  "y": 0
+                },
+                "style": {
+                  "position": "absolute",
+                  "bottom": -40,
+                  "left": -35,
+                  "width": 350,
+                  "height": 70,
+                  "borderRadius": 35
+                }
+              },
+              "children": []
+            },
+            {
+              "props": {
+                "className": "elevation-4 absolute -top-12 left-2 h-24 w-24 rounded-full border-2 border-white"
+              },
+              "children": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "src": "http://itekindia.com/sharva/Avatarbig.png",
+                    "style": {
+                      "width": "100%",
+                      "height": "100%"
+                    },
+                    "resizeMode": "stretch"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "props": {
+                "className": "elevation-4 absolute left-36 top-1 right-0 grow overflow-hidden"
+              },
+              "children": [
+                {
+                  "type": "Text",
+                  "props": {
+                    "className": "self-start font-ssbold text-xl text-white"
+                  },
+                  "children": [
+                    "Guest User"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

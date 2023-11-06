@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SSE Example</title>
+</head>
+<body>
+  <h1>Server-Sent Events Example</h1>
+  <div id="sse-data"></div>
+  <script>
+    const sseData = document.getElementById('sse-data');
+    const eventSource = new EventSource('stream.php');
+
+    eventSource.onmessage = (event) => {
+      sseData.innerHTML += `<p>${event.data}</p>`;
+    };
+  </script>
+</body>
+</html>

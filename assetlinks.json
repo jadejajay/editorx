@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.octoria.development",
+      "sha256_cert_fingerprints": [
+        "EC:BF:31:81:F7:B8:77:18:7B:9C:98:B1:C8:3C:EF:3A:B1:93:2C:22:29:2E:DE:1E:02:02:22:32:81:E7:C0:54"
+      ]
+    }
+  }
+]

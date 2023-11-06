@@ -1,0 +1,645 @@
+[
+    {
+        "id": "60ddc1b0c9e9f40015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-23.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-23.png",
+        "name": "1001 XYLO",
+        "price": "100",
+        "description": "this is updtaed product",
+        "category": " Hardware",
+        "subCategory": "Tower Bolt",
+        "sizes": [
+            "4\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            "1"
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60ddc1b0c9eg6f0015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-22.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-22.png",
+        "name": "1002 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Tower Bolt",
+        "sizes": [
+            "4\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60ddc1b0c9h7ff0015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-21.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-21.png",
+        "name": "1003 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Tower Bolt",
+        "sizes": [
+            "4\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": false,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60ddc1b0c9dhf015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-20.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-20.png",
+        "name": "1004 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60dddt654tghdhf015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-19.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-19.png",
+        "name": "1005 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60drdgd54tgtghdhf015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-18.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-18.png",
+        "name": "1006 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60dddt654tghdhdtyhd5b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-17.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-17.png",
+        "name": "1007 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60ddgtfgdhf015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-16.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-16.png",
+        "name": "1008 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60dddt654tghddf5gg5b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-15.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-15.png",
+        "name": "1009 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60dddetggt5445vgg1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-14.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-14.png",
+        "name": "1010 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60ddddrg5egghdhf015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-13.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-13.png",
+        "name": "1011 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60dddcrtg5ghdhf015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-12.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-12.png",
+        "name": "1012 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60dddtxd45ghdhf015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-11.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-11.png",
+        "name": "1013 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "60sdrtrs45ghdhf015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-10.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-10.png",
+        "name": "1014 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "6es54ghdhf015f1b0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-9.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-9.png",
+        "name": "1015 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "6es54ghdhf01534f0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-8.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-8.png",
+        "name": "1016 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "6es43tf43ghf01534f0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-7.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-7.png",
+        "name": "1017 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "6es44544cff01534f0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-6.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-6.png",
+        "name": "1018 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "6es45e4tv5f01534f0a1",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-5.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-5.png",
+        "name": "1019 XYLO",
+        "price": "100",
+        "description": "Stainless Steel Tower Bolt Which Is Used To Stainless Steel Tower Bolt Which Is Used To",
+        "category": "Hardware",
+        "subCategory": "Khuti",
+        "sizes": [
+            "4\"",
+            "6\""
+        ],
+        "material": "Stainless Steel",
+        "finishing": [
+            "Polished"
+        ],
+        "type": "Tower Bolt",
+        "quantity": [
+            1
+        ],
+        "featured": true,
+        "createdAt": "2021-07-01T12:00:00.000Z",
+        "updatedAt": "2021-07-01T12:00:00.000Z"
+    },
+    {
+        "id": "4387fh8347f653",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-4.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-4.png",
+        "name": "1635 abc",
+        "price": "34",
+        "description": "hello how are you i am fine thank you",
+        "category": "hardware",
+        "subCategory": "Conceal Handle",
+        "sizes": [
+            "5\"",
+            "7\"",
+            "9\""
+        ],
+        "material": "stainless steel",
+        "finishing": [
+            "rose gold",
+            " chrome"
+        ],
+        "type": "Conceal Handle",
+        "quantity": [
+            "10",
+            "20"
+        ],
+        "featured": true
+    },
+    {
+        "id": "c4fhg43g763gfv",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-3.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-3.png",
+        "name": "1635 abc",
+        "price": "34",
+        "description": "hello how are you i am fine thank you",
+        "category": "hardware",
+        "subCategory": "Cabinet handle",
+        "sizes": [
+            "5\"",
+            "7\"",
+            "9\""
+        ],
+        "material": "stainless steel",
+        "finishing": [
+            "rose gold",
+            " chrome"
+        ],
+        "type": "Conceal Handle",
+        "quantity": [
+            "10",
+            "20"
+        ],
+        "featured": true
+    },
+    {
+        "id": "saj56d3gd6wbWeWdc",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-2.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/Untitled-2.png",
+        "name": "432 YTF",
+        "price": "2000",
+        "description": "i dont know what is thi sproduct has",
+        "category": "unknown",
+        "subCategory": "tower bolt",
+        "sizes": [
+            "6\"",
+            "7\"",
+            "8\""
+        ],
+        "material": "stainless steel",
+        "finishing": [
+            "chrome",
+            "mate"
+        ],
+        "type": "tower bolt",
+        "quantity": [
+            "4"
+        ],
+        "featured": false
+    },
+    {
+        "id": "1123ikjtyg7j89u7ji",
+        "images": [
+            "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/08:49:59Untitled-1.png"
+        ],
+        "catalogue": "http:\/\/itekindia.com\/sharva\/extra\/cabinet.pdf",
+        "image3d": "http:\/\/itekindia.com\/octoria\/dashboard\/uploads\/08:49:59Untitled-1.png",
+        "name": "432 YTF",
+        "price": "2000",
+        "description": "Premium RoseGold Towerbolt",
+        "category": "unknown",
+        "subCategory": "tower bolt",
+        "sizes": [
+            "6\"",
+            "7\"",
+            "8\""
+        ],
+        "material": "stainless steel",
+        "finishing": [
+            "chrome",
+            "mate"
+        ],
+        "type": "tower bolt",
+        "quantity": [
+            "4"
+        ],
+        "featured": false
+    }
+]

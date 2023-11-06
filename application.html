@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Octoria Application1</title>
+</head>
+
+<body>
+  <h1>Octoria Application</h1>
+  <p>Welcome to Octoria Application</p>
+  <button id="openAppButton">Open Octoria App</button>
+
+  <script>
+    document.getElementById('openAppButton').addEventListener('click', function () {
+      // Trigger the custom URL scheme when the button is clicked
+      window.location.href = "octoria:///products/id/6Rhyz4Fnq2dYJmC9KhTT";
+    });
+  </script>
+  <p>Click the button to open my React Native app:</p>
+  <a href="octoria:///">Open My App</a>
+  <a href="http://itekindia.com/sharva.apk" download="sharva.apk">
+    <button>Download File</button>
+  </a>
+</body>
+
+</html>

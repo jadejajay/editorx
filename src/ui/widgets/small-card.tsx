@@ -27,7 +27,7 @@ export const SmallCard = ({ onClick, index, isSelected, url }: Props) => {
             uri: url,
           }}
           className="h-full w-full"
-          contentFit="cover"
+          resizeMode="cover"
         />
       </Shadow>
     </TouchableOpacity>
